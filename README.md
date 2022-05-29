@@ -4,6 +4,6 @@
 
 - Replace YOUR_TIME in the code with the time ,you want to shutdown the pc 
 
-- Time should be given in Second<sub>For 1 minute put 60</sub>
+- Time should be given in Second<sup> For 1 minute put 60</sup>
 
 - The led at pin 1 of ATTINY85 will be turned on after the execution of code is completed
